@@ -1,4 +1,4 @@
-package Week1;
+package Week1.Module_1;
 
 public class Excercise_2 {
     /*

@@ -1,4 +1,4 @@
-package Week1;
+package Week1.Module_1;
 /*
 Exercise 1: Implementing the Singleton Pattern
 Scenario:
